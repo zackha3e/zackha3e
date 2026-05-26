@@ -17,7 +17,7 @@
 
 ---
 
-# 💫 About Me
+#  About Me
 
 ```yaml
 Name: Akheel Ahamed
@@ -30,7 +30,7 @@ Style: Premium • Clean • Modern
 
 ---
 
-# ⚡ Tech Stack
+#  Tech Stack
 
 <div align="center">
 
@@ -40,7 +40,7 @@ Style: Premium • Clean • Modern
 
 ---
 
-# 📊 GitHub Statistics
+#  GitHub Statistics
 
 <div align="center">
 
@@ -52,7 +52,7 @@ Style: Premium • Clean • Modern
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <div align="center">
 
@@ -72,7 +72,7 @@ Style: Premium • Clean • Modern
 
 ---
 
-# 📈 Contribution Graph
+#  Contribution Graph
 
 <div align="center">
 
