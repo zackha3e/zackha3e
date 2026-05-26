@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://cdn.discordapp.com/attachments/1485985528573726720/1508941071139213464/25480068-abstarct-preto-luxo-cetim-fundo-ai-gerado-gratis-foto.jpg" />
+<img width="100%" src="https://raw.githubusercontent.com/zackha3e/zackha3e/main/banner.jpg" />
 
 # Akheel Ahamed
 ### `Known as Zack`
@@ -98,6 +98,6 @@ Style: Premium • Clean • Modern
 
 <br>
 
-<img width="100%" src="https://cdn.discordapp.com/attachments/1485985528573726720/1508941071139213464/25480068-abstarct-preto-luxo-cetim-fundo-ai-gerado-gratis-foto.jpg" />
+<img width="100%" src="https://raw.githubusercontent.com/zackha3e/zackha3e/main/banner.jpg" />
 
 </div>
