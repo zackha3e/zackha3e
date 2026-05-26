@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="100%" src="https://cdn.discordapp.com/attachments/1485985528573726720/1508941071139213464/25480068-abstarct-preto-luxo-cetim-fundo-ai-gerado-gratis-foto.jpg" />
+
 # Akheel Ahamed
 ### `Known as Zack`
 
@@ -17,7 +19,7 @@
 
 ---
 
-#  About Me
+# About Me
 
 ```yaml
 Name: Akheel Ahamed
@@ -30,7 +32,7 @@ Style: Premium • Clean • Modern
 
 ---
 
-#  Tech Stack
+# Tech Stack
 
 <div align="center">
 
@@ -40,7 +42,7 @@ Style: Premium • Clean • Modern
 
 ---
 
-#  GitHub Statistics
+# GitHub Statistics
 
 <div align="center">
 
@@ -52,7 +54,7 @@ Style: Premium • Clean • Modern
 
 ---
 
-#  Connect With Me
+# Connect With Me
 
 <div align="center">
 
@@ -72,7 +74,7 @@ Style: Premium • Clean • Modern
 
 ---
 
-#  Contribution Graph
+# Contribution Graph
 
 <div align="center">
 
@@ -92,6 +94,10 @@ Style: Premium • Clean • Modern
 
 <div align="center">
 
-### “A code can change everything.” 
+### “A code can change everything.”
+
+<br>
+
+<img width="100%" src="https://cdn.discordapp.com/attachments/1485985528573726720/1508941071139213464/25480068-abstarct-preto-luxo-cetim-fundo-ai-gerado-gratis-foto.jpg" />
 
 </div>
