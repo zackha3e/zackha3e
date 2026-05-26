@@ -8,9 +8,7 @@
 <br>
 
 <img src="https://img.shields.io/badge/Frontend%20Developer-000000?style=for-the-badge&logo=react&logoColor=00FFFF" />
-
 <img src="https://img.shields.io/badge/Backend%20Developer-000000?style=for-the-badge&logo=node.js&logoColor=00FFFF" />
-
 <img src="https://img.shields.io/badge/Discord%20Bot%20Developer-000000?style=for-the-badge&logo=discord&logoColor=00FFFF" />
 
 </div>
@@ -45,9 +43,9 @@ Theme: Clean • Premium • Modern
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zackha3e&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zackha3e&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zackha3e&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zackha3e&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 </div>
 
@@ -77,7 +75,7 @@ Theme: Clean • Premium • Modern
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zackha3e&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zackha3e&theme=github-dark&hide_border=true&area=true" />
 
 </div>
 
