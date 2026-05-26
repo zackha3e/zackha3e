@@ -43,9 +43,9 @@ Theme: Clean • Premium • Modern
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zackha3e&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zackehyyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zackha3e&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zackehyyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 </div>
 
@@ -63,7 +63,7 @@ Theme: Clean • Premium • Modern
 <img src="https://img.shields.io/badge/Discord%20Profile-000000?style=for-the-badge&logo=discord&logoColor=00FFFF" />
 </a>
 
-<a href="https://github.com/zackha3e">
+<a href="https://github.com/zackehyyy">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FFFF" />
 </a>
 
@@ -75,7 +75,7 @@ Theme: Clean • Premium • Modern
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zackha3e&theme=github-dark&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zackehyyy&theme=github-dark&hide_border=true&area=true" />
 
 </div>
 
@@ -83,7 +83,7 @@ Theme: Clean • Premium • Modern
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=zackha3e&label=PROFILE+VIEWS&color=00FFFF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=zackehyyy&label=PROFILE+VIEWS&color=00FFFF&style=for-the-badge" />
 
 </div>
 
