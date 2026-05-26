@@ -1,11 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/zackha3e/zackha3e/main/banner.jpg" />
-
 # Akheel Ahamed
 ### `Known as Zack`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Frontend+%26+Backend+Developer;Discord+Bot+Developer;Node.js+%7C+Java+%7C+Python;Building+Premium+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Frontend+%26+Backend+Developer;Developer+From+Kerala+India;Discord+Bot+Developer;Node.js+%7C+Java+%7C+Python;Building+Premium+Projects" />
 
 <br>
 
@@ -24,10 +22,11 @@
 ```yaml
 Name: Akheel Ahamed
 Alias: Zack
+Location: Kerala, India
 Role: Frontend & Backend Developer
 Focus: Discord Bots, Websites & Modern Systems
 Languages: Node.js, Java, Python, JavaScript
-Style: Premium • Clean • Modern
+Theme: Clean • Premium • Modern
 ```
 
 ---
@@ -95,9 +94,5 @@ Style: Premium • Clean • Modern
 <div align="center">
 
 ### “A code can change everything.”
-
-<br>
-
-<img width="100%" src="https://raw.githubusercontent.com/zackha3e/zackha3e/main/banner.jpg" />
 
 </div>
