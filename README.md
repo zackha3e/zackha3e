@@ -3,7 +3,7 @@
 # Akheel Ahamed
 ### `Known as Zack`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Frontend+%26+Backend+Developer;Discord+Bot+Developer;Node.js+%7C+Java+%7C+Python;Building+Premium+Projects+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Frontend+%26+Backend+Developer;Discord+Bot+Developer;Node.js+%7C+Java+%7C+Python;Building+Premium+Projects" />
 
 <br>
 
